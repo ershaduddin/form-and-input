@@ -1,0 +1,31 @@
+h1{
+	color:green;
+	text-align:center;
+
+}
+
+form{
+	text-align:center;
+	margin-top:50px;
+}
+input{
+	background-color:grey;
+	width:200px;
+	height:20px;
+	border-radius:10px;
+
+
+}
+select{
+	background-color:black;
+	color:white;
+
+}
+
+.button{
+	margin-top:40px;
+}
+
+body{
+	background-color:rosybrown;
+}
